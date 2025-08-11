@@ -1,4 +1,4 @@
-# 🗽 NYC Taxi Fare Prediction – Regression Project
+# 🗽 NYC Taxi Fare Prediction – Automatidata Project
 
 This project was developed as part of the Google Advanced Data Analytics Certificate, with each phase completed at the end of its respective course.
 
