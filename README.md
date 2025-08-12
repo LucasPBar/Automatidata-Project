@@ -136,10 +136,8 @@ This project tested and implemented **multiple regression models**, including **
 
 ---
 
-## Contact
+## 📬 Contact
+LinkedIn: [www.linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto)  
+GitHub: [https://github.com/LucasPBar](https://github.com/LucasPBar)  
+Gmail: [lucaspimenta1805@gmail.com](mailto:lucaspimenta1805@gmail.com)  
 
-Linkedin: www.linkedin.com/in/lucaspimentabarretto
-
-Github: https://github.com/LucasPBar
-
-Gmail: lucaspimenta1805@gmail.com
