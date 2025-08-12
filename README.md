@@ -72,7 +72,6 @@ The **New York City Taxi and Limousine Commission (TLC)** collects vast amounts 
 However, a lack of transparency in fare pricing and frequent disputes between passengers and drivers remain recurring issues.
 
 In this scenario, **Automatidata**, a consultancy specialized in transforming data into practical solutions, was hired to develop a **regression-based predictive model** capable of estimating trip fares even before the ride begins.  
-This initiative aims to modernize urban transportation management, offering greater predictability for passengers, drivers, and regulators.
 
 ---
 
