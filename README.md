@@ -37,7 +37,7 @@ In collaboration with **Automatidata**, a **regression-based predictive model** 
 ---
 
 ## 🛠 Technologies and Tools Used
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Optuna, XGBoost  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost  
 - **Environments**: Jupyter Notebook, Anaconda (terminal), Visual Studio Code  
 - **Techniques**: Machine learning algorithms (classification and regression), statistical analysis
 
