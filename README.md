@@ -20,7 +20,7 @@
 - [Key Business Insights](#-key-business-insights)  
 - [Model](#-model)  
 - [Results](#-results)  
-- [Contact](#contact)  
+- [Contact](#contact)
 
 
 ---
@@ -136,8 +136,11 @@ This project tested and implemented **multiple regression models**, including **
 
 ---
 
+<!-- âncora explícita garantida -->
+<a id="contact"></a>
 ## 📬 Contact
+
 LinkedIn: [www.linkedin.com/in/lucaspimentabarretto](https://www.linkedin.com/in/lucaspimentabarretto)  
 GitHub: [https://github.com/LucasPBar](https://github.com/LucasPBar)  
-Gmail: [lucaspimenta1805@gmail.com](mailto:lucaspimenta1805@gmail.com)  
+Gmail: [lucaspimenta1805@gmail.com](mailto:lucaspimenta1805@gmail.com)
 
