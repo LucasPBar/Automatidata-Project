@@ -21,7 +21,7 @@
 - [Key Business Insights](#-key-business-insights)  
 - [Model](#-model)  
 - [Results](#-results)  
-- [Results](#-results)
+- [Contact](#-contact)
 
 ---
 
