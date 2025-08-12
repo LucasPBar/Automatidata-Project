@@ -21,8 +21,7 @@
 - [Key Business Insights](#-key-business-insights)  
 - [Model](#-model)  
 - [Results](#-results)  
-- [How to Run](#-how-to-run)  
-- [License](#-license)  
+- [Contact](#-contact)  
 
 ---
 
@@ -125,6 +124,7 @@ This project tested and implemented **multiple regression models**, including **
 ---
 
 ## 📊 Results
+
 | Model       | Precision | Recall | F1-Score | Accuracy |
 |-------------|-----------|--------|----------|----------|
 | RF (CV)     | 0.675     | 0.757  | 0.714    | 0.680    |
@@ -136,17 +136,10 @@ This project tested and implemented **multiple regression models**, including **
 
 ---
 
-## 🚀 How to Run
-```bash
-# Clone repository
-git clone https://github.com/yourusername/nyc-taxi-fare-prediction.git
+## Contact:
 
-# Navigate to project folder
-cd nyc-taxi-fare-prediction
+Linkedin: www.linkedin.com/in/lucaspimentabarretto
 
-# Install dependencies
-pip install -r requirements.txt
+Github: https://github.com/LucasPBar
 
-# Run Jupyter Notebook
-jupyter notebook
-
+Gmail: lucaspimenta1805@gmail.com
