@@ -20,7 +20,7 @@
 - [Key Business Insights](#-key-business-insights)  
 - [Model](#-model)  
 - [Results](#-results)  
-- [Contact](#contact)
+- [Contact](#contact)  
 
 
 ---
