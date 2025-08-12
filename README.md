@@ -4,9 +4,18 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)   
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)  
+![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 ![ML](https://img.shields.io/badge/Machine%20Learning-Regression-orange)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightblue?logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Library-orange?logo=scikitlearn)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-lightgreen)   
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visualstudiocode)  
+![Anaconda](https://img.shields.io/badge/Anaconda-Environment-green?logo=anaconda)  
+
 
 ---
 
