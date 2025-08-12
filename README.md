@@ -71,7 +71,7 @@ This project aims to build a reliable predictive system that anticipates fares *
 - Extract **strategic insights** from the data  
 - Estimate fares before the ride begins  
 - Identify passengers likely to tip over 20%  
-- Build a **robust machine learning** model for fare prediction  
+- Build a **machine learning** model for fare prediction  
 
 ---
 
