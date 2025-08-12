@@ -5,7 +5,6 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 ![ML](https://img.shields.io/badge/Machine%20Learning-Regression-orange)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightblue?logo=pandas)  
