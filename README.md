@@ -115,7 +115,8 @@ This project tested and implemented **multiple regression models**, including **
 **Evaluation Metrics:**
 - **Mean Squared Error (MSE)**  
 - **Root Mean Squared Error (RMSE)**  
-- **R-squared (R²)**  
+- **R-squared (R²)**
+- **Mean Absolute Error (MAE)**
 
 **Additional Analysis:**
 - Hypothesis testing to evaluate variable significance  
