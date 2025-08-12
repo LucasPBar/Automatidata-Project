@@ -61,9 +61,18 @@ The dataset, provided by the **TLC**, contains trip records from over **200,000 
 ### **Business Problem**
 Urban mobility in New York faces significant challenges, especially regarding fare pricing, where **lack of predictability** can lead to dissatisfaction and disputes between passengers and drivers.
 
-Initial data analysis revealed **anomalies**, such as rides with a reported fare but zero distance. These inconsistencies reduce prediction accuracy and must be addressed — either by adjusting the algorithm or removing such entries.
+Initial data analysis revealed **anomalies**, such as rides with a reported fare but zero distance. These inconsistencies reduce prediction accuracy and must be addressed either by adjusting the algorithm or removing such entries.
 
 This project aims to build a reliable predictive system that anticipates fares **before** a ride starts, providing clarity and trust for passengers, drivers, and regulators.
+
+## 🗺 Context
+
+Urban mobility is a constant challenge in large cities such as New York, where taxi services play a crucial role in the daily transportation of passengers.  
+The **New York City Taxi and Limousine Commission (TLC)** collects vast amounts of trip data, including location, distance, time, and fare information.  
+However, a lack of transparency in fare pricing and frequent disputes between passengers and drivers remain recurring issues.
+
+In this scenario, **Automatidata**, a consultancy specialized in transforming data into practical solutions, was hired to develop a **regression-based predictive model** capable of estimating trip fares even before the ride begins.  
+This initiative aims to modernize urban transportation management, offering greater predictability for passengers, drivers, and regulators.
 
 ---
 
