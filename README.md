@@ -136,7 +136,7 @@ This project tested and implemented **multiple regression models**, including **
 
 ---
 
-## Contact:
+## Contact
 
 Linkedin: www.linkedin.com/in/lucaspimentabarretto
 
