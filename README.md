@@ -1,7 +1,8 @@
 # 🗽 NYC Taxi Fare Prediction – Automatidata Project
 
  <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/17ffa8fe-c8b4-45d4-8175-a3fd115c29c6" />
- 
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)   
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
