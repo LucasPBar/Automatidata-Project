@@ -152,6 +152,13 @@ This project tested and implemented **multiple regression models**, including **
 
 > 📌 Visualizations, charts, and detailed analysis can be found in the Jupyter notebooks.
 
+🔎 **What does this mean in practice?**  
+These results indicate that the system can reliably estimate fares, which, in a real-world scenario, could:
+
+- Reduce fare disputes between passengers and drivers.  
+- Increase customer satisfaction with clear fare predictions before the ride.  
+- Support fairer public policies and dynamic pricing strategies.
+
 ---
 
 <!-- âncora explícita garantida -->
